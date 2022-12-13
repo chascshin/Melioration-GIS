@@ -1,0 +1,78 @@
+body {
+    background: url("../img/pic1.JPG") no-repeat;
+    background-size:cover;
+    background-position: center;
+
+
+}
+.title {
+    background-color: antiquewhite;
+    height: 75px;
+    text-align: center;
+    position: fixed; top: 0; left: 0; right: 0;
+}
+.ttt {
+    text-align: center;
+    font-size: 44px;
+}
+
+.txt {
+    width: 1000px;
+    height: 600px;
+    margin: 30px auto;
+    box-shadow: 8px 8px 8px rgba(0.5, 0.5, 0.5, 0.71);
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
+    font-style: normal;
+    color: aliceblue;
+}
+aside {
+    font-size: 35px;
+    background-color: rgb(243, 193, 92);
+    font-family: Arial;
+    line-height: 1.5;
+    height: 630px;
+    width: 300px;
+    padding: 60px 15px 10px 20px;
+    display: inline-block;
+    border-radius: 12px;
+
+}
+
+.list {
+    font-size: 18px;
+    text-align: center;
+    color: rgb(51, 6, 94);
+}
+.raimap {
+    font-size: 18px;
+}
+.btn {
+    display: inline-block;
+    height: 5px;
+    background: rgb(47, 156, 170);
+    color: #fff;
+    padding: 1rem 1rem;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 12px;
+    font-size: 16px;
+    margin: 3px;
+   }
+.footer {
+    text-indent: 910px;
+    background-color: antiquewhite;
+    text-align-last:left;
+    position: fixed; bottom: 0; left: 0; right: 0;
+    font-size: 14px;
+
+}
+
+.button1 {
+    float:right;
+    margin-top: 12px;
+    margin-bottom: 6px;
+    margin-right: 12px;
+}
+
